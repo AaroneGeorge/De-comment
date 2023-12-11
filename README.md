@@ -54,4 +54,17 @@ Example:
 ```
 
 
+## TECH STACKS USED:
+`SOLIDITY` `REACT` `TYPESCRIPT` `TAILWIND CSS` `PLASMO - for chrome extension`
+
+## CONTRIBUTORS:
+
+[<img src="https://github.com/AB7zz.png" width="60px;"/>](https://github.com/AB7zz)
+[<img src="https://github.com/aaronegeorge.png" width="60px;"/>](https://github.com/aaronegeorge)
+[<img src="https://github.com/aakash414.png" width="60px;"/>](https://github.com/aakash414)
+[<img src="https://github.com/AazimAnish.png" width="60px;"/>](https://github.com/AazimAnish)
+
+
+
+
 
