@@ -1,5 +1,8 @@
 # DeThread
 
+live link: https://youtu.be/fOE1ZLB875A?si=urt5AySYiqHFe3iK
+parent repo: https://github.com/AB7zz/DeComment
+
 ## use cases:
 DeThread Aims to Solve Issues Censorship issues in conversations in social media platforms and to make a fully free and censorship-free conversation thread.
 
@@ -57,8 +60,6 @@ Example:
 ## TECH STACKS USED:
 `SOLIDITY` `REACT` `TYPESCRIPT` `TAILWIND CSS` `PLASMO - for chrome extension`
 
-# parent repo:
-https://github.com/AB7zz/DeComment
 
 ## CONTRIBUTORS:
 
