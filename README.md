@@ -57,6 +57,9 @@ Example:
 ## TECH STACKS USED:
 `SOLIDITY` `REACT` `TYPESCRIPT` `TAILWIND CSS` `PLASMO - for chrome extension`
 
+# parent repo:
+https://github.com/AB7zz/DeComment
+
 ## CONTRIBUTORS:
 
 [<img src="https://github.com/AB7zz.png" width="60px;"/>](https://github.com/AB7zz)
